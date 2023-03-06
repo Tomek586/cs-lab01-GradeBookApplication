@@ -75,5 +75,6 @@ namespace GradeBook.UserInterfaces
             Console.WriteLine();
             Console.WriteLine("Quit - Exits the application");
         }
+        
     }
 }
