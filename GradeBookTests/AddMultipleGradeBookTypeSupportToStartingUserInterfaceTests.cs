@@ -115,7 +115,7 @@ namespace GradeBookTests
             //Setup Test
             var output = string.Empty;
             
-
+            
             try
             {
                 //Test that a `StandardGradeBook` is created with the correct name when value is "standard".
